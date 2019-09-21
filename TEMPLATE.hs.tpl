@@ -1,3 +1,3 @@
--- Created on (>>>DATE<<<) by (>>>NAME<<<)
+-- Created on (>>>DATE<<<) by (>>>AUTHOR<<<)
 
 module (>>>FILE_SANS<<<) where (>>>POINT<<<)
