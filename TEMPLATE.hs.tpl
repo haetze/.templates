@@ -1,3 +1,3 @@
 -- Created on (>>>DATE<<<) by (>>>NAME<<<)
 
-module (>>>FILE<<<) where
+module (>>>FILE_SANS<<<) where (>>>POINT<<<)
