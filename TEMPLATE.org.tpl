@@ -33,7 +33,7 @@
 # #               English                    #
 # #                                          #
 # ############################################
-# #+LATEX_HEADER: \usepackage[ngerman]{babel}
+# #+LATEX_HEADER: \usepackage[english]{babel}
 # #+LATEX_HEADER: \usepackage{thmtools}
 # #+LATEX_HEADER: \declaretheorem[name=Proof, refname={proof}, Refname={Proof}]{beweis}
 # #+LATEX_HEADER: \declaretheorem[name=Definition, refname={definition}, Refname={Definition}]{definition}
@@ -50,7 +50,7 @@
 # #+LATEX_HEADER: \usepackage[affil-it]{authblk}
 # #+LATEX_HEADER: \author[1]{Richard Stewing}
 # #+LATEX_HEADER: \affil[1]{Department of Computer Science, TU Dortmund University\\ \href{mailto:richard.stewing@tu-dortmund.de}{richard.stewing@tu-dortmund.de}}
-# #+LANGUAGE: de
+# #+LANGUAGE: en
 
 #+OPTIONS: author:nil toc:nil
 
